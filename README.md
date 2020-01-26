@@ -1,2 +1,1 @@
 # smarthome
-# app
